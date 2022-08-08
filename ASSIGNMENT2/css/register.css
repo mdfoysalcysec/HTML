@@ -1,0 +1,9 @@
+.form-area{
+	height: 500px;
+	width: 50%;
+	text-align: center;
+	background-color: red;
+	border: 3px solid black;
+	display: flex;
+	flex-direction: column;
+}
